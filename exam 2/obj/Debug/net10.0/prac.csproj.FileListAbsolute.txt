@@ -1,0 +1,14 @@
+D:\c#\exam 2\bin\Debug\net10.0\prac.exe
+D:\c#\exam 2\bin\Debug\net10.0\prac.deps.json
+D:\c#\exam 2\bin\Debug\net10.0\prac.runtimeconfig.json
+D:\c#\exam 2\bin\Debug\net10.0\prac.dll
+D:\c#\exam 2\bin\Debug\net10.0\prac.pdb
+D:\c#\exam 2\obj\Debug\net10.0\prac.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\exam 2\obj\Debug\net10.0\prac.AssemblyInfoInputs.cache
+D:\c#\exam 2\obj\Debug\net10.0\prac.AssemblyInfo.cs
+D:\c#\exam 2\obj\Debug\net10.0\prac.csproj.CoreCompileInputs.cache
+D:\c#\exam 2\obj\Debug\net10.0\prac.dll
+D:\c#\exam 2\obj\Debug\net10.0\refint\prac.dll
+D:\c#\exam 2\obj\Debug\net10.0\prac.pdb
+D:\c#\exam 2\obj\Debug\net10.0\prac.genruntimeconfig.cache
+D:\c#\exam 2\obj\Debug\net10.0\ref\prac.dll
